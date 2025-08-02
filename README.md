@@ -16,7 +16,8 @@ Original URL: [https://codepen.io/aninhacatt/pen/dPYNLPw](https://codepen.io/ani
 ---
 
 ## 🖼 Preview do Layout
-(Adicione aqui uma imagem ou GIF mostrando como o layout ficará no perfil.)
+<img width="1906" height="915" alt="image" src="https://github.com/user-attachments/assets/2418ddff-0657-474b-a807-0f3d3fe22929" />
+
 
 ---
 
